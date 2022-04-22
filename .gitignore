@@ -1,0 +1,10 @@
+
+Debug/
+Drivers/
+Middlewares/
+*.launch
+*.prefs
+*.xml
+.cproject
+.mxproject
+.project
